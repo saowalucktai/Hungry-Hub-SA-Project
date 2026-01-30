@@ -46,6 +46,3 @@ Designed to handle complex relationships between customers, restaurants, menus, 
 - **GitHub**: Version Control & Project Showcase
 
 ---
-
-## 👤 Contact
-**Saowaluck Boonrod** - *System Analyst / Designer*
