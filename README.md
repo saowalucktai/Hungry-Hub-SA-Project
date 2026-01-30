@@ -19,8 +19,6 @@ This project includes detailed system documentation to ensure a robust and scala
 ### 1. Database Schema (ER Diagram)
 Designed to handle complex relationships between customers, restaurants, menus, and delivery tracking.
 
-![ER Diagram](./images/ER-Diagram.png)
-
 ### 2. Data Flow & Logic
 - **DFD Level 1:**
 <img src="./images/DFD Level 1.png" width="600">
