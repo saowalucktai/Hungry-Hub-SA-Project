@@ -22,12 +22,15 @@ Designed to handle complex relationships between customers, restaurants, menus, 
 ![ER Diagram](./images/ER-Diagram.png)
 
 ### 2. Data Flow & Logic
-- **DFD Level 1:** Visualizes how data moves through the ordering and payment processes.
-![DFD Level 1](./images/DFD%20Level%201.png)
+- **DFD Level 1:**
+<img src="./images/DFD Level 1.png" width="600">
 
-- **Sequence Diagrams:** Details the step-by-step interaction between the user and the system.
-  - **Payment Process:** ![Sequence Payment](./images/Sequence%20Payment.png)
-  - **Order Tracking:** ![Sequence Order Tracking](./images/Sequence%20Order%20Tracking.png)
+- **Sequence Diagrams:**
+  - **Payment Process:**
+  <img src="./images/Sequence Payment.png" width="500">
+  
+  - **Order Tracking:**
+  <img src="./images/Sequence Order Tracking.png" width="500">
 
 ---
 
